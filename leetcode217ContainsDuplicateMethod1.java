@@ -1,6 +1,6 @@
-package date7_11;
 
-public class duplicateMethod1Bruteforce {
+
+public class ContainsDuplicate1 {
 
     public static void main(String[] args) {
         int[] arr={1,2,3};
